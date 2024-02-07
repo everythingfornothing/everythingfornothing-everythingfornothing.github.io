@@ -33,7 +33,7 @@ var config = {
         "奇怪的样子": "./imgs/qiguai.jpg",
         "可爱的样子": "./imgs/weimao.jpg",
         "生气的样子": "./imgs/shengqi.jpg",
-        "祝你笑口常开": "./imgs/.jpg",
+        "祝你笑口常开": "./imgs/xiao.jpg",
         "要把快乐一箩筐": "./imgs/kauile.jpg",
         "萌萌哒每一天": "./imgs/mengmeng.jpg",
         "然后把你抱走": "./imgs/baozou.jpg",
