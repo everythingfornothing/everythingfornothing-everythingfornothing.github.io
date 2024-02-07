@@ -26,17 +26,17 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "送给我"："./imgs/1.jpg"
+        "送给我"："./imgs/1.jpg",
         "心爱的小可爱梁韵": "./imgs/zipai.jpg",
         "今天是你的生日": "./imgs/huodon.jpg",   
         "这两年来，我见过你": "./imgs/shou.jpeg",
         "奇怪的样子": "./imgs/qiguai.jpg",
         "可爱的样子": "./imgs/weimao.jpg",
         "生气的样子": "./imgs/shengqi.jpg",
-         "祝你笑口常开": "./imgs/shengqi.jpg"
-        "要把快乐一箩筐": "./imgs/kauile.jpg"
-        "萌萌哒每一天": "./imgs/mengmeng.jpg"
-        "然后把你抱走": "./imgs/baozou.jpg"
+         "祝你笑口常开": "./imgs/shengqi.jpg",
+        "要把快乐一箩筐": "./imgs/kauile.jpg",
+        "萌萌哒每一天": "./imgs/mengmeng.jpg",
+        "然后把你抱走": "./imgs/baozou.jpg",
         "YAMI~~": "./imgs/yummy.jpg"
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
