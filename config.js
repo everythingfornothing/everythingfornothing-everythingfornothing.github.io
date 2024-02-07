@@ -26,7 +26,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "送给我"："./imgs/1.jpg",
+        "送给我":"./imgs/1.jpg",
         "心爱的小可爱梁韵": "./imgs/zipai.jpg",
         "今天是你的生日": "./imgs/huodon.jpg",   
         "这一年来，我见过你": "./imgs/shou.jpg",
