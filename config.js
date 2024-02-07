@@ -37,7 +37,7 @@ var config = {
         "要把快乐一箩筐": "./imgs/kauile.jpg",
         "萌萌哒每一天": "./imgs/mengmeng.jpg",
         "然后把你抱走": "./imgs/baozou.jpg",
-        "YAMI~~": "./imgs/yummy.jpg",
+        "YAMI~~": "./imgs/yummy.jpg"
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
