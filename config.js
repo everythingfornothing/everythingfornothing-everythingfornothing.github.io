@@ -29,7 +29,7 @@ var config = {
         "送给我"："./imgs/1.jpg",
         "心爱的小可爱梁韵": "./imgs/zipai.jpg",
         "今天是你的生日": "./imgs/huodon.jpg",   
-        "这一年来，我见过你": "./imgs/shou.jpeg",
+        "这一年来，我见过你": "./imgs/shou.jpg",
         "奇怪的样子": "./imgs/qiguai.jpg",
         "可爱的样子": "./imgs/weimao.jpg",
         "生气的样子": "./imgs/shengqi.jpg",
@@ -48,6 +48,6 @@ var config = {
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
-        story: "My Heart Will Go On"，
+        story: "My Heart Will Go On",
     }
 };
